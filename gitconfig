@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = zed0416660907@gmail.com
+	name = Jasperzhang
